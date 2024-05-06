@@ -67,7 +67,7 @@ function onSubtractBtnClicked() {
   answer.value = Subtract;
   }
 
-  // We want this code to run when the user clicks the Add button
+  // We want this code to run when the user clicks the Multiply button
 function onMultiplyBtnClicked() {
     let number1 = document.getElementById("number1");
     let number2 = document.getElementById("number2");
@@ -82,7 +82,7 @@ function onMultiplyBtnClicked() {
   answer.value = Multiply;
   }
 
-  // We want this code to run when the user clicks the Add button
+  // We want this code to run when the user clicks the Divide button
 function onDivideBtnClicked() {
     let number1 = document.getElementById("number1");
     let number2 = document.getElementById("number2");
